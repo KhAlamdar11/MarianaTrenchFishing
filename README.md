@@ -1,7 +1,7 @@
 # MarianaTrenchFishing
 A fishing game based on SDL2.0 and developed in C++. 
 The game is divided into 4 stages:
-Markup:
+
 * Stage 1: Catch fish by throwing the hook.
 * Stage 2: A shark appears that attacks the boat. Jump boat to save it, as the boat has limited lives. Keep hitting head of the shark until it dies.
 * Stage 3: Two sharks appear. Jump boat to avoid attacks and hit the head of sharks with the hook.
