@@ -8,3 +8,5 @@ The game is divided into 4 stages:
 * Stage 4: A dragon appears. Figure out how to deal with this beast! Beware the blue fire, it is neiter water nor fire, but a kind of plasma that burns anything it touches to its core.
 
 The game was developed as the final project of object oriented programming course at Habib University in Spring 2020.
+
+Video: https://www.youtube.com/watch?v=ITSI3_9rEnk
